@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="unit_convert">Unit Convert By Ritesh</string>
+    <string name="info">Info</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="select1">Area From</string>
+    <string name="select2">Area To</string>
+    <string name="select3">Length From</string>
+    <string name="select4">Length To</string>
+    <string name="select5">Mass From</string>
+    <string name="select6">Mass To</string>
+    <string name="s1">3. Area Conversion: Square Centimeter (cm²) Square Meter (m²) Square Kilometer (km²)</string>
+    <string name="s2">4. Length Conversion: Millimeter (mm) Centimeter (cm) Meter (m) Kilometer (km)</string>
+    <string name="s3">5. Mass Conversion: Milligram (mg) Gram (g) Kilogram (kg) Tonne (metric ton)</string>
+    <string name="a1">The Unit Converter application is a versatile tool designed to simplify the conversion of different units in three categories: area, length, and mass. Whether you need to convert between square centimeters, square meters, and square kilometers for area measurements, or millimeters, centimeters, meters, and kilometers for length measurements, or milligrams, grams, kilograms, and tonnes for mass measurements, this application has got you covered. With an intuitive user interface and a wide range of supported units, the Unit Converter ensures accuracy and convenience for all your conversion needs.</string>
+    <string name="a2">1. User-Friendly Interface: The application boasts a user-friendly interface that allows users to effortlessly switch between different measurement categories and units.</string>
+    <string name="a3">2. Versatile Conversion Options: The Unit Converter supports conversions for area, length, and mass, enabling seamless interconversion between various units within these categories.</string>
+    <string name="a4">6. Instant Results: Upon entering the value and selecting the source and target units, the application provides immediate and accurate conversion results.</string>
+    <string name="a5">7. Two-Way Conversion: Users can convert from any unit to any other unit within the same category, ensuring a seamless experience.</string>
+    <string name="a6">8. Decimal Precision: The Unit Converter offers customizable decimal precision, allowing users to choose the level of detail they require in the converted measurements.</string>
+    <string name="a7">9. Offline Functionality: The application is available for use offline, ensuring accessibility even without an active internet connection.</string>
+    <string name="a8">10. History and Favorites: The Unit Converter retains a history of recent conversions and provides the option to mark certain conversions as favorites for quick access.</string>
+    <string name="a9">11. Customizable Themes: Users can personalize the app\'s appearance with various themes to suit their preferences.</string>
+    <string name="a10">12. Cross-Platform Support: The Unit Converter is available on multiple platforms, including Android, iOS, and desktop, providing users the flexibility to access it on their preferred devices.</string>
+    <string name="features">Features</string>
+</resources>
